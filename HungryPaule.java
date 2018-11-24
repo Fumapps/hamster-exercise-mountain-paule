@@ -9,7 +9,7 @@ import de.unistuttgart.iste.rss.oo.hamstersimulator.datatypes.Direction;
  * @author (Ihr Name) 
  * @version (eine Versionsnummer oder ein Datum)
  */
-public class CustomHamsterGame extends HamsterGame{
+public class HungryPaule extends HamsterGame{
 
     private static final String TERRITORY_EMPTY = "/territories/empty.ter";
 
