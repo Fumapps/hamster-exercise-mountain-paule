@@ -12,18 +12,19 @@ import java.io.IOException;
 public class HungryPaule extends SimpleHamsterGame{
 
     
-    public void main() {
-        doRun();
-    }
-    
-
-    protected void run() {
+    public HungryPaule() {
         game.displayInNewGameWindow();
         try {
             game.initialize("/territories/territory-ub7.ter");
         } catch (IOException ex){
             throw new RuntimeException(ex);
         }
+    }
+    
+  
+    @Override
+    protected void run() {
+        
     }
     
     public void collectEverything(){
