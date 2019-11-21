@@ -1,9 +1,10 @@
-package de.unistuttgart.iste.rss.oo.hamstersimulator.exercise7.homework;
+package de.unistuttgart.iste.rss.oo.hamstersimulator.exercise7.presence;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
+
 
 /**
  * Beschreiben Sie hier die Klasse CustomHamsterGame.

@@ -1,9 +1,10 @@
-package de.unistuttgart.iste.rss.oo.hamstersimulator.exercise7.presens;
+package de.unistuttgart.iste.rss.oo.hamstersimulator.exercise7.homework;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
+
 
 
 /**

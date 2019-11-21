@@ -1,4 +1,4 @@
-package de.unistuttgart.iste.rss.oo.hamstersimulator.exercise7.homework;
+package de.unistuttgart.iste.rss.oo.hamstersimulator.exercise7.presence;
 
 public class Main {
 

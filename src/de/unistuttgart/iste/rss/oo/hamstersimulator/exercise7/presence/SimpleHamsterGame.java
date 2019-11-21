@@ -1,4 +1,4 @@
-package de.unistuttgart.iste.rss.oo.hamstersimulator.exercise7.presens;
+package de.unistuttgart.iste.rss.oo.hamstersimulator.exercise7.presence;
 
 
 import java.io.Console;
