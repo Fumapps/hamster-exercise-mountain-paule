@@ -25,22 +25,5 @@ public class ExceptionalHamsterGame extends SimpleHamsterGame {
         }
     }
    
-    void multiMove (int numberOfSteps) {
-
-    }
-    
-    void spreadGrainsInCurrentDirection() {
-
-    }
-    
-    void moveToNextWall() {
-        while(true){
-            if(paule.frontIsClear()){
-                paule.move();
-            } else {
-                paule.turnLeft();
-            }
-        }
-    }
     
 }
