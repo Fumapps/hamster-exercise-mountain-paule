@@ -7,14 +7,14 @@ import java.io.InputStream;
 
 
 /**
- * Beschreiben Sie hier die Klasse CustomHamsterGame.
+ * Beschreiben Sie hier die Klasse HungryPauleGame.
  * 
  * @author (Ihr Name)
  * @version (eine Versionsnummer oder ein Datum)
  */
-public class HungryPaule extends SimpleHamsterGame {
+public class HungryPauleGame extends SimpleHamsterGame {
 
-	public HungryPaule() {
+	public HungryPauleGame() {
 		game.displayInNewGameWindow();
 		File terFile = new File("territories/territory-ub7.ter");
 		try {

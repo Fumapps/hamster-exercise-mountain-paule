@@ -18,7 +18,6 @@ public class AmazingPauleHamsterGame extends SimpleHamsterGame {
 
 	
 	AmazingPauleHamsterGame() {
-		game.displayInNewGameWindow();
 		File terFile = new File("territories/territory-amazingpaule-ub7.ter");
 		try {
 			InputStream targetStream = new FileInputStream(terFile);
